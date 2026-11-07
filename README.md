@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pG3gvzt-)
-# PCCCS495 – Term II Project
+# _Note: This project was fully designed and developed by me as part of AP/OOP project at Institute of Engineering and Management, Kolkata. The original submission was hosted in the college organization repository_.
 
 ## Project Title
 Dynamic Rental Managament System
